@@ -1,0 +1,4 @@
+interface:
+  display_name: "观音灵签"
+  short_description: "以等概率起签、筊杯确认与百签底本提供完整且审慎的解读"
+  default_prompt: "使用 $guanyin-lots 引导我公平起一支观音灵签并解读。"
